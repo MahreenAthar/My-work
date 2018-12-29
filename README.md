@@ -4,4 +4,5 @@ These will contain some simple programs using ggplot and dplyr.
 
 ## Contents  
 - [First work](./my2.Rmd)
-- [Second](./my2.Rmd)
+- [Second](./my2.Rmd)  
+## ggplot  
