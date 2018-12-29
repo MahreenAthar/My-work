@@ -5,7 +5,5 @@ These will contain some simple programs using ggplot and dplyr.
 ## Contents  
 - [First work](./my2.Rmd)
 - [Second](./my2.Rmd)  
-## ggplot  
-- [program1 using Iris dataset]()  
-- [program2 using Iris dataset]()  
-## dplyr  
+
+## Ggplot
