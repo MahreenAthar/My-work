@@ -9,6 +9,3 @@ These will contain some simple programs using ggplot and dplyr.
 ## ggplot  
 - [program1 using Iris dataset]()  
 - [program2 using Iris dataset]()  
-
-## dplyr  
-- [program1]()
