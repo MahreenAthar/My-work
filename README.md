@@ -12,4 +12,5 @@ These will contain some simple programs using ggplot and dplyr.
 
 ## dplyr  
 - [program1]()   
-[link](my2.Rmd)
+[link](my2.Rmd).  
+Here I will add notes off dplyr
